@@ -70,3 +70,18 @@ body {
     transform-origin: bottom center;
     animation: tick 1200ms ease-in-out infinite;
 }
+
+.checkBoxes{
+    background-color: darkgreen;
+    padding: 10px;
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.checkbox {
+    background-color: crimson;
+    height: 125px;
+    width: 125px;
+    padding: 10px;
+    margin:5px;
+}
